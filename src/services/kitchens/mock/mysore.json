@@ -1,0 +1,532 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.2132707,
+            "lng": 4.4168305
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2145994302915,
+              "lng": 4.418074130291502
+            },
+            "southwest": {
+              "lat": 51.2119014697085,
+              "lng": 4.415376169708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "My Kitchen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 1",
+        "rating": 4,
+        "reference": "",
+        "user_ratings_total": 832,
+        "vicinity": "Chamaraja Mohalla, Mysore",
+        "menu":[{
+          "dish_id": 1,
+          "dish_name": "Benne Dosa",
+          "price": 100
+        },{
+          "dish_id":2,
+          "dish_name": "Rajasthani Thali",
+          "price": 150
+        },{
+          "dish_id":3,
+          "dish_name": "Ragi Mudde",
+          "price": 60
+        }]
+
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 51.21366200000001,
+            "lng": 4.405177
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2150259802915,
+              "lng": 4.406393180291502
+            },
+            "southwest": {
+              "lat": 51.2123280197085,
+              "lng": 4.403695219708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Kavitha's Home",
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 2048
+          }
+        ],
+        "place_id": "some place id 2",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "reference": "",
+        "scope": "",
+        "types": [
+          "spa",
+          "lodging",
+          "restaurant",
+          "food",
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Jeevan Jyothi, K R Nagar, Mysore",
+        "menu":[{
+          "dish_id": 1,
+          "dish_name": "Rice-Meal",
+          "price": 100
+        },{
+          "dish_id":2,
+          "dish_name": "South-Indian Thali",
+          "price": 150
+        },{
+          "dish_id":3,
+          "dish_name": "Ragi Mudde",
+          "price": 60
+        }]
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.220671,
+            "lng": 4.399616700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2220094802915,
+              "lng": 4.400740480291502
+            },
+            "southwest": {
+              "lat": 51.2193115197085,
+              "lng": 4.398042519708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "HomeO",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2000,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 3000
+          }
+        ],
+        "place_id": "some place id 3",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "travel_agency",
+          "lodging",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 321,
+        "vicinity": "Sri Harsha Road, Mysore",
+        "menu":[{
+          "dish_id": 1,
+          "dish_name": "Noodles",
+          "price": 100
+        },{
+          "dish_id":2,
+          "dish_name": "Tatte Idli",
+          "price": 150
+        },{
+          "dish_id":3,
+          "dish_name": "Ragi Mudde",
+          "price": 60
+        }]
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.2093238,
+            "lng": 4.39107
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2107127302915,
+              "lng": 4.392468230291503
+            },
+            "southwest": {
+              "lat": 51.2080147697085,
+              "lng": 4.389770269708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "The Glorious Kitchen",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 4",
+        "rating": 4.6,
+        "reference": "",
+        "user_ratings_total": 152,
+        "vicinity": "Bangalor-Mysore Road,Bannimantapa, Mysore",
+        "menu":[{
+          "dish_id": 1,
+          "dish_name": "Uttara Karnataka Special meal",
+          "price": 100
+        },{
+          "dish_id":2,
+          "dish_name": "Jamoon",
+          "price": 50
+        },{
+          "dish_id":3,
+          "dish_name": "Rasagulla",
+          "price": 60
+        }]
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.2085756,
+            "lng": 4.3922755
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2098682302915,
+              "lng": 4.393753530291503
+            },
+            "southwest": {
+              "lat": 51.2071702697085,
+              "lng": 4.391055569708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Hotel Pilar",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 5",
+        "rating": 4.2,
+        "reference": "",
+  
+        "user_ratings_total": 151,
+        "vicinity": "Sbm Building,Saraswathipuram, Mysore"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.2210731,
+            "lng": 4.4030571
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2224264802915,
+              "lng": 4.404163080291502
+            },
+            "southwest": {
+              "lat": 51.2197285197085,
+              "lng": 4.401465119708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Mysore House",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 6",
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "",
+        "user_ratings_total": 766,
+        "vicinity": "Krs Road, Mysore"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.215643,
+            "lng": 4.399512000000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.21704323029149,
+              "lng": 4.400861330291503
+            },
+            "southwest": {
+              "lat": 51.2143452697085,
+              "lng": 4.398163369708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "sunanda's",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 7",
+        "rating": 4.2,
+        "reference": "",
+        "user_ratings_total": 122,
+        "vicinity": "K R Nagar, Mysore"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.21939859999999,
+            "lng": 4.3991545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2206672302915,
+              "lng": 4.400538980291503
+            },
+            "southwest": {
+              "lat": 51.2179692697085,
+              "lng": 4.397841019708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lunchbox",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3139,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 6153
+          }
+        ],
+        "place_id": "some place id 11",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 689,
+        "vicinity": "Govardhan Complex, Mysore"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.21892750000001,
+            "lng": 4.3944361
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2201378802915,
+              "lng": 4.396247430291502
+            },
+            "southwest": {
+              "lat": 51.2174399197085,
+              "lng": 4.393549469708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Aishwarya's Home",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 3024
+          }
+        ],
+        "place_id": "some place id 12",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "cafe",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 854,
+        "vicinity": "Mysore-Hassan Road,K R Nagar Mysore"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.22667930000001,
+            "lng": 4.406515799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2281167302915,
+              "lng": 4.407858080291502
+            },
+            "southwest": {
+              "lat": 51.2254187697085,
+              "lng": 4.405160119708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "BTS House",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 639,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 1136
+          }
+        ],
+        "place_id": "some place id 13",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 316,
+        "vicinity": "Dewans Road, Mysore"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 51.2164307,
+            "lng": 4.409301300000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 51.2178396302915,
+              "lng": 4.410637980291503
+            },
+            "southwest": {
+              "lat": 51.2151416697085,
+              "lng": 4.407940019708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Basaveshwara Kanavali",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 478,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 851
+          }
+        ],
+        "place_id": "some place id 20",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 151,
+        "vicinity": "Nijalingappa Colony, Mysore"
+      }
+    ],
+    "status": "OK"
+  }
+  
